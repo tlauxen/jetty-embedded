@@ -5,16 +5,12 @@
 	<artifactId>jetty-embedded</artifactId>
 	<packaging>war</packaging>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>Moeda Maven Webapp</name>
+	<name>Jetty Embedded</name>
 
 	<properties>
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
 		<jetty.version>8.1.12.v20130726</jetty.version>
 		<jetty.jsp.glassfish.version>2.1.v20100127</jetty.jsp.glassfish.version>
-		<jdbi.version>2.10.1</jdbi.version>
-		<pgsql.version>9.1-901.jdbc4</pgsql.version>
-		<spring.mvc.version>3.2.4.RELEASE</spring.mvc.version>
-		<dbcp.version>1.4</dbcp.version>
 	</properties>
 
 	<dependencies>
